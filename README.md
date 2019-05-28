@@ -13,4 +13,5 @@
 ![unable updae](./img/3.png)
 
 * PS: 插件来源于:  
-这里: https://github.com/HCTYMFF/hackbar2.1.3
+这里: https://github.com/HCTYMFF/hackbar2.1.3  
+想单独下载插件的可以使用 `GitZip for github` 这个chrome插件来下载，详情使用下载相关插件的方法可以参考我另一个 `repo` 里面的介绍下面的 `Tips`: [https://github.com/Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections)
