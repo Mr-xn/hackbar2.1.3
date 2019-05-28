@@ -5,8 +5,7 @@
 ![Image text](./img/1.png)
 
 * 然后点这里</br>
-![Image text](./img/2.png)
-</br>
+![Image text](./img/2.png)</br>
 * ### 加载{4c98c9c7-fc13-4622-b08a-a18923469c1c}.xpi  即可
 
 * ### 一定记住要关闭插件的自动更新！！！，否则浏览器会自动更新插件到收费版本！！!  
