@@ -4,8 +4,7 @@
 打开firefox的插件目录</br>
 ![Image text](./img/1.png)
 
-* 然后点这里
-</br>
+* 然后点这里</br>
 ![Image text](./img/2.png)
 </br>
 加载{4c98c9c7-fc13-4622-b08a-a18923469c1c}.xpi  即可
