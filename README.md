@@ -18,4 +18,5 @@
 
 - update:artificial_satellite: 添加适用于chrome浏览器的 [HackBar-v2.2.6.zip](./HackBar-v2.2.6.zip) 解压后使用开发者模式导入使用。
 - update `2020-06-12` 更新火狐版本的hackbar `2.2.9` [点击下载](https://raw.githubusercontent.com/Mr-xn/hackbar2.1.3/master/hackbar-2.2.9-fx.xpi) 来自[这里](https://github.com/fengwenhua/hackbar_crack) 
-- update`2020-07-28` 更新chrome版本hackbar`2.3.1` [点击下载](https://raw.githubusercontent.com/Mr-xn/hackbar2.1.3/master/HackBar-v2.3.1.zip)
+- update `2020-07-28` 更新chrome版本hackbar`2.3.1` [点击下载](https://raw.githubusercontent.com/Mr-xn/hackbar2.1.3/master/HackBar-v2.3.1.zip)
+- update `2020-08-04` 更新火狐版本的hackbar `2.3.1`  [点击下载](https://raw.githubusercontent.com/Mr-xn/hackbar2.1.3/master/hackbar-2.3.1-fx.xpi)
